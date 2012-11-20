@@ -1,0 +1,61 @@
+/* CSS Document */
+
+body{
+	color:#fff;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size:11px;
+	font-weight:bold;
+}
+
+.container{
+	background:#000;
+	width:855px;
+	height:493px;
+	margin:auto;
+}
+
+input{
+	width:155px;
+}
+
+input.text:hover, input.text:focus{
+	background:#333333;
+	border:2px solid #cccccc;
+	color:#cccccc
+}
+
+select{
+	width:161px;
+}
+
+.form{
+	margin: 65px 0 0 0;
+}
+
+.panel1{
+	background:url("../images/login_form/index_01.png") #000;
+	width:321px;
+	height:266px;
+	float:left;
+}
+
+.panel2{
+	background:url("../images/login_form/index_02.png") #000;
+	width:534px;
+	height:266px;
+	float:left;
+}
+
+.panel3{
+	background:url("../images/login_form/index_03.png") #000;
+	width:321px;
+	height:227px;
+	float:left;
+}
+
+.panel4{
+	background:url("../images/login_form/index_04.png") #000;
+	width:534px;
+	height:227px;
+	float:left;
+}

@@ -1,0 +1,18 @@
+/* CSS Document */
+
+input[type="submit"], input.submit[type="button"] {
+    background: url("../images/login-button.png") #000;
+    border: thin solid #000000;
+    border-radius: 6px;
+	width:71px;
+	height:26px;
+	color:#fff;
+}
+
+input[type="reset"] {
+    background: url("../images/reset-button.png") #fff;
+    border: 1px solid #666666;
+    border-radius: 6px;
+	width:71px;
+	height:26px;
+}
